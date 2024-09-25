@@ -14,4 +14,4 @@ console.log (`Boa escolha, entre os dois, o melhor realmente é o ${atendimento3
 
 let atendimento4 = prompt ("Qual a Forma de Pagamento?")
 
-console.log (`Ok, vou te passar a maquineta com o método de pagamento${atendimento4} na tela, obrigado !!`)
+console.log (`Ok, vou te passar a maquineta com o método de pagamento${atendimento4} na tela, obrigado !!` ) 
