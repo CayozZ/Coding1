@@ -10,13 +10,13 @@ console.log (`${nome1} é de ${cidade}.`)
 // Calculando as 4 Operações Básicas.
 let num1 = 2000;
 let num2 = 500;
-console.log(`"Soma" = ${num1 + num2}`)
+console.log(`Soma = ${num1 + num2}`)
 
-console.log(`"Subtração" = ${num1 - num2}`)
+console.log(`Subtração = ${num1 - num2}`)
 
-console.log(`"Multiplicação" = ${num1 * num2}`)
+console.log(`Multiplicação = ${num1 * num2}`)
 
-console.log(`"Divisão" = ${num1 / num2}`)
+console.log(`Divisão = ${num1 / num2}`)
 
 // Calculando a altura do triângulo.
 let base = 15;
@@ -29,7 +29,7 @@ let nota1 = 6;
 let nota2 = 8;
 let nota3 = 10;
 let media = (nota1 + nota2 + nota3) / 3;
-console.log(`"O resultado da média é" ${media}`)
+console.log(`O resultado da média é ${media}`)
 
 // Percentual de desconto.
 let precoOriginal = 45;
